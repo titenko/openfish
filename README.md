@@ -1,6 +1,4 @@
-# Openfish
-
-# Welcome to CutefishOS
+# Openfish. Welcome to CutefishOS
 
 ## Welcome back！
 
